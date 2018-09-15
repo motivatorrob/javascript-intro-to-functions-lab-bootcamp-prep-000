@@ -20,13 +20,10 @@ function sayHiToGrandma(string)  {
   }
   elsif (string.toUpperCase()===string)
   {return `YES INDEED!`}
-  else 
-
-function sayHiToGrandma(string) {
-  
-}
-
-function sayHiToGrandma(string) {
-  string==='I love you, Grandma.'
-  return `I love you, too.`
+  }
+  else (string==='I love you, Grandma.')
+  {return `I love you, too.`
 } 
+
+
+  
