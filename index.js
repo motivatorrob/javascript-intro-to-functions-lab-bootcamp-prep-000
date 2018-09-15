@@ -20,7 +20,7 @@ function sayHiToGrandma(string)  {
   }
   elsif (string.toUpperCase()===string)
   {return `YES INDEED!`}
-  else
+  else 
 
 function sayHiToGrandma(string) {
   string.toUpperCase()===string
